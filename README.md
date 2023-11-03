@@ -1,4 +1,5 @@
 preview
+ <img src="https://i.postimg.cc/HnX6BB1x/Linked-In-cover-1-1.jpg" alt="XOLA BANGAZA">
 <h1 align="center">Hi 👋, I'm Xola Bangaza</h1>
 <h3 align="center">Aspiring Web developer||UX/UI Designer</h3>
 
