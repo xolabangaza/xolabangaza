@@ -2,7 +2,7 @@ preview
 
  <img src="https://i.ibb.co/LP82QsD/1698674000480.jpg" alt="XOLA BANGAZA">
 <h1 align="center" >Hi 👋, I'm Xola Bangaza</h1>
-<h3 align="center">Aspiring Web developer||UX/UI Designer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dev-xolabangazaportfolio.pantheonsite.io/](https://dev-xolabangazaportfolio.pantheonsite.io/)
 
